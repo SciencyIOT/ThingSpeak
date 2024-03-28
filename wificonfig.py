@@ -1,2 +1,2 @@
 ssid = "iPhone X"
-password = "MakerCulture7!"
+password = "#######"
